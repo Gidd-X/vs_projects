@@ -30,6 +30,8 @@
                 <option value="female">Female</option><br>
             </select><br>
 
+            <input type="checkbox" name="feedback" id="feedback">
+
             <label for="feedback">Feedback: </label><br>
             <textarea name="feedback" id="feedback" cols="30" rows="10"></textarea>
 
