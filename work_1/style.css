@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
